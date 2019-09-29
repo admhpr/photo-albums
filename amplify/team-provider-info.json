@@ -15,5 +15,12 @@
                 "photoalbums4603797e": {}
             }
         }
+    },
+    "develop": {
+        "categories": {
+            "auth": {
+                "photoalbums54f8a3c6": {}
+            }
+        }
     }
 }
